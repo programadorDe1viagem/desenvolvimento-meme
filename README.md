@@ -1,2 +1,2 @@
-joguinho.html
-style.css
+joguinho.html;
+style.css;
